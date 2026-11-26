@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="184f1ed9-b684-4273-887b-4c925c0e3743">
+  <name>ВКМ_ФормаТелеграмБота</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма телеграм бота</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:CommonForm>

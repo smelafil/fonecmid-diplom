@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2a118f60-9af7-4922-8fd0-7f2166695514">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
+  <content>CommonModule.ВКМ_ИнтеграцияСТелеграмСервер</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>CommonModule.ВКМ_ОчередьТелеграмСервер</content>
+  <content>ScheduledJob.ВМК_ОтправкаУведомленийВТелеграм</content>
+  <content>CommonForm.ВКМ_ФормаТелеграмБота</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>CommonForm.ВКМ_ФормаТипаНоменклатуры</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+</mdclass:Subsystem>
